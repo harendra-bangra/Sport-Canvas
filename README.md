@@ -1,6 +1,6 @@
-# Nairobi Sports Training Guide
+# Sports Canvas
 
-## SPECS
+# SPECS
 We aim to create a sports training guide website for a Nairobian. It will have information
 that is useful pertaining to:
 > 1. Training guide
@@ -22,8 +22,7 @@ This will be done through creation of webpages. I propose the following pages:
 > 5.
 
 Contributors
-> 1. Victor Ngeno
-> 2. Elvis Mogaka
-> 3. Dave Adeola
-> 4. Sam
-> 5. Miriam Njeri
+> 1. Prayanshu Agarwal
+> 2. Harendra Bangra
+> 3. Abhinav Godara
+> 4. Vikas Sompalli
