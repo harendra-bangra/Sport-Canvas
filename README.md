@@ -19,7 +19,6 @@ This will be done through creation of webpages. I propose the following pages:
 > 2. Dietary guide page
 > 3. Routes and facility guide page.equipment and gear nguo
 > 4. Exercise routine guide for each type of sport.
-> 5.
 
 Contributors
 > 1. Prayanshu Agarwal
